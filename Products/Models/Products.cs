@@ -7,5 +7,7 @@ namespace Products.Models
 {
     public class Products
     {
+        public string Id { get; set; }
+        public string Name{ get; set; }
     }
 }
